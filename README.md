@@ -14,4 +14,4 @@ Related Reference: [*Click Here*](http://electron.atom.io/)
 
 + If network is not fine, use prebuilt binary<p>
 Download Path: [*Click Here*](https://github.com/electron/electron/releases)<p>
-And untar & move the whole package to your nodejs project's '*node_modules*' folder.<p>
+And untar & move the whole package into your nodejs project's '*node_modules*' folder.<p>
