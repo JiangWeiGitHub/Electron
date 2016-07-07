@@ -15,3 +15,6 @@ Related Reference: [*Click Here*](http://electron.atom.io/)
 + If network is not fine, use prebuilt binary<p>
 Download Path: [*Click Here*](https://github.com/electron/electron/releases)<p>
 And untar & move the whole package into your nodejs project's '*node_modules*' folder.<p>
+
++ And you can use China Mirror
+`ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/ npm install -g electron-prebuilt`<p>
