@@ -16,5 +16,5 @@ Related Reference: [*Click Here*](http://electron.atom.io/)
 Download Path: [*Click Here*](https://github.com/electron/electron/releases)<p>
 And untar & move the whole package into your nodejs project's '*node_modules*' folder.<p>
 
-+ And you can use China Mirror
-`ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/ npm install -g electron-prebuilt`<p>
++ And you can use China Mirror<p>
+`ELECTRON_MIRROR=https://npm.taobao.org/mirrors/electron/ npm install electron-prebuilt --save-dev`<p>
