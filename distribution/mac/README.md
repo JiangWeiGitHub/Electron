@@ -20,7 +20,7 @@
 
   - [better than mine](https://github.com/nwjs/nw.js/wiki/MAS%3A-Requesting-certificates)
   
-+ Get `Team ID`
++ Get `Team ID` (on apple's website)
   
 + Registering a new app on the Mac App Store (on apple's website)
 
@@ -41,7 +41,7 @@
     ./node_modules/.bin/build --config ./electron-builder.yml --mac
   ```
   
-+ Sign This App
++ Sign This App (on `mac`)
 
   - Go into project's root
   
@@ -91,7 +91,7 @@
     
     ps: replace `TEAM_ID` & `your.bundle.id`
     
-+ Create a new package
++ Create a new package (on `mac`)
 
   - Create a shell script `sh.sh`
   
@@ -136,6 +136,6 @@
   - Run this script
     - `./sh.sh`
     
-+ Submit this new package using `Xcode`
++ Submit this new package using `Xcode` (on `mac`)
 
 + Done
